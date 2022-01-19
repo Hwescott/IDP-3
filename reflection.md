@@ -1,0 +1,3 @@
+Reflection
+===========
+As stated in my README, I wanted to expand my knowledge of coding past JavaScript. Although I haven't completely finished this project, I am still proud that with help I was able to at least get it running. I was able to work with html and use it functions in order to style the calculator without using the js alternative. I was also able to use css in order to do mostly the same thing with my layout and buttons of the claculator. I hope to continue with coding in js and use the math functions/objects in order to get the calculator to work.
